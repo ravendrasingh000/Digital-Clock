@@ -1,2 +1,2 @@
 # Digital-Clock
-This is Digital Clock (My first repo)
+https://ravendrasingh000.github.io/Digital-Clock/
